@@ -23,4 +23,4 @@
    - lightGBM
 
 ## Contact
-xieanranjudy@gmail.com
+- xieanranjudy@gmail.com
